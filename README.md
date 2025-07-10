@@ -1,2 +1,2 @@
-
-### Try [Here]([https://davimdolabella.github.io/GringoBarbearia/](https://davimdolabella.github.io/JRBarber/))
+# JR Barber
+### Try [Here](https://davimdolabella.github.io/JRBarber/)
