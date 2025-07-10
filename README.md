@@ -1,3 +1,2 @@
-# GringoBarbearia
-## Website template for Gringo Barber Shop
-### Try [Here](https://davimdolabella.github.io/GringoBarbearia/)
+
+### Try [Here]([https://davimdolabella.github.io/GringoBarbearia/](https://davimdolabella.github.io/JRBarber/))
